@@ -6,5 +6,5 @@ datapack (and a texture pack) for Minecraft Java..
 
 This was made in collaboration with @Agamer024
 
-(The world and datapack i required the 
+(The world and datapack is required the 
 texture pack is optional)
