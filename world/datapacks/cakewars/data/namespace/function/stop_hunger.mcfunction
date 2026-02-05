@@ -1,0 +1,1 @@
+scoreboard players set ? 10sgame 1
