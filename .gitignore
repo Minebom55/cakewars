@@ -17,3 +17,18 @@ world/data/axiom_annotations.dat
 # Mod data: Xaero's Minimap
 world/xaeromap.txt
 
+/world/playerdata
+/world/playerdata
+world/DIM1/data/DistantHorizons.sqlite-wal
+world/DIM1/data/DistantHorizons.sqlite-shm
+world/DIM-1/data/DistantHorizons.sqlite-shm
+world/DIM-1/data/DistantHorizons.sqlite-wal
+world/playerdata/089af4f7-f714-4a0b-a058-e141a6021737.dat
+world/playerdata/089af4f7-f714-4a0b-a058-e141a6021737.dat_old
+/world/stats
+world/stats/089af4f7-f714-4a0b-a058-e141a6021737.json
+world/stats/089af4f7-f714-4a0b-a058-e141a6021737.json
+world/playerdata/089af4f7-f714-4a0b-a058-e141a6021737.dat_old
+world/playerdata/089af4f7-f714-4a0b-a058-e141a6021737.dat
+
+world/data/DistantHorizons.sqlite
