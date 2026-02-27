@@ -168,3 +168,10 @@ execute as @a[team=Yellow] if score @e[tag= trade_yellow, limit= 1] streangthtie
 execute as @a store result score @s y run data get entity @s Pos[1] 1
 execute as @a if score playing game matches 1 if score @s y < bottom y run function namespace:death_respawn/died
 execute as @a if score playing game matches 1 if score @s y matches 135 run function namespace:death_respawn/died
+
+
+#Make sure players dont get stuck at the cobweb in respawn point and the presureplate can get triggerd in spawn
+#Cobweb
+setblock 335 198 18 minecraft:stone_pressure_plate
+#Spawn
+setblock 8 -59 8 minecraft:stone_pressure_plate
