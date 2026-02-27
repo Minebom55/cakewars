@@ -1,0 +1,19 @@
+# IDE / editor metadata
+.idea/
+.vscode/
+*.iml
+
+# Minecraft player-specific data (per-world)
+world/playerdata/
+world/advancements/
+world/stats/
+
+# Mod data: Distant Horizons (per-world cache)
+world/data/DistantHorizons.sqlite*
+
+# Mod data: Axiom
+world/data/axiom_annotations.dat
+
+# Mod data: Xaero's Minimap
+world/xaeromap.txt
+
