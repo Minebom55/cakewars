@@ -43,3 +43,6 @@ scoreboard players set ? 10sgame 1
 
 #Unblock team chosing
 fill 25 -60 8 25 -58 11 air
+
+#Stop players dying on team switch
+scoreboard players set @a death 0
