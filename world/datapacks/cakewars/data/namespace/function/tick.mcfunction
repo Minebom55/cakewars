@@ -174,4 +174,4 @@ execute as @a if score playing game matches 1 if score @s y matches 135 run func
 #Cobweb
 setblock 335 198 18 minecraft:stone_pressure_plate
 #Spawn
-setblock 8 -59 8 minecraft:stone_pressure_plate
+execute if score playing game matches 1 run setblock 8 -59 8 minecraft:stone_pressure_plate
