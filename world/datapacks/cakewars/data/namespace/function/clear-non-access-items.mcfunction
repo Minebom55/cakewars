@@ -11,7 +11,7 @@ clear @s deepslate_bricks
 clear @s deepslate_brick_stairs
 clear @s sculk_sensor
 clear @s sculk_catalyst
-clear @s chain
+clear @s iron_chain
 clear @s soul_lantern
 clear @s raw_iron
 clear @s light_gray_concrete_powder

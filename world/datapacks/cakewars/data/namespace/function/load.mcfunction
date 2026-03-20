@@ -60,10 +60,10 @@ execute in minecraft:overworld run forceload add 233 -43 621 84
 recipe give @a *
 
 difficulty easy
-gamerule mobGriefing false
-gamerule doMobSpawning false
-gamerule doWardenSpawning false
-gamerule doInsomnia false
+gamerule mob_griefing false
+gamerule spawn_monsters false
+gamerule spawn_wardens false
+gamerule spawn_phantoms false
 
 #Load text (be at the end)
 tellraw @a [{"text":"\n\n "}]
